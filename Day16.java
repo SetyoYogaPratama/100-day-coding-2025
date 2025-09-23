@@ -4,11 +4,11 @@ public class day16 {
         int a = 10;
         int b = 4;
 
-        int hasilTambah = a * b; // perkalian
-        int hasilKurang = a % b; // pembagian
+        int hasilKali = a * b; // perkalian
+        int hasilBagi = a % b; // pembagian
 
-        System.out.println("Hasil " + a + " X " + b + " = " + hasilTambah);
-        System.out.println("Hasil " + a + " ÷ " + b + " = " + hasilKurang);
+        System.out.println("Hasil " + a + " X " + b + " = " + hasilKali);
+        System.out.println("Hasil " + a + " ÷ " + b + " = " + hasilBagi);
         
     }
     
